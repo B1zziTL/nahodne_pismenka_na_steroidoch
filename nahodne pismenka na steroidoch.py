@@ -66,8 +66,6 @@ for riadok in subor: #cyklus pre riadky v subore
                 nove_slovo = prve + pismenka + posledne + znak
             elif slovo.index(znak) == 0:
                 nove_slovo = znak + prve + pismenka + posledne
-            if slovo.count(znak) == 2:
-                nove_slovo = znak + prve + pismenka + posledne + znak
             znak = "nic"
 
         #zmena premennych ak je jednohlaskove slovo        
