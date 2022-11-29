@@ -2,4 +2,4 @@
 VYLEPŠENÝ program na zamiešanie písmen v slove, vypísanie výstupu to Shellu a .txt súboru
 
 
-Pre správne fungovanie programu treba stiahnuť .txt súbor!
+Pre správne fungovanie programu treba stiahnuť .txt a druhý .py súbor!
